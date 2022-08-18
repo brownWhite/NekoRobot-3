@@ -1,7 +1,7 @@
 PM_START_TEXT = """
 ────「 [{}](https://telegra.ph/file/bdc771a084e2c806ec756.jpg) 」────
-*やあ! {} My Darling, Iam your SweetHeart,
-I am an Anime themed advance group management bot with a lot of Sexy Features.*
+*やあ! {} Hy, Iam Mirc Robot from Mirc_Grup,
+I am advance group management bot with a lot of features.*
 ➖➖➖➖➖➖➖➖➖➖➖➖➖
 ❍ *Uptime:* `{}`
 ❍ `{}` *users, across* `{}` *chats.*
