@@ -138,13 +138,13 @@ HELP_STRINGS = """
 """
 
 GROUP_START_IMG = (
-    "https://telegra.ph/file/6f6e36088ce15a189c400.mp4",
-    "https://telegra.ph/file/0cea56d9625f265ecc9db.mp4",
-    "https://telegra.ph/file/a131993b0f1e8517eacb2.mp4",
-    "https://telegra.ph/file/6f43ded36dba5f256bba7.mp4",
-    "https://telegra.ph/file/61acd313cc536bd1c6217.mp4",
-    "https://telegra.ph/file/f329cdd740c55bf955deb.mp4",
-    "https://telegra.ph/file/4ace6e89c3b1d3a08e943.mp4",
+    "https://telegra.ph/file/6a746b7f057f22407537d.mp4",
+    "https://telegra.ph/file/363ce0c96653058942718.mp4",
+    "https://telegra.ph/file/44b3d67f6797cfff38ea0.mp4",
+    "https://telegra.ph/file/1c72c847343af9ba243ad.mp4",
+    "https://telegra.ph/file/b19be7a0f668ae38d7458.mp4",
+    "https://telegra.ph/file/347f6c6f13b8655d55c37.mp4",
+    "https://telegra.ph/file/87a69c320f9955df11a7a.mp4",
 )
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
