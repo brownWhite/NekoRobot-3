@@ -279,7 +279,7 @@ def start(update: Update, context: CallbackContext):
                         ),
                         InlineKeyboardButton(
                             text="📢 Updates",
-                            url="https://telegram.dog/BlackLover_Updates",
+                            url="https://t.me/mircbotsupport",
                         ),
                     ]
                 ]
