@@ -115,7 +115,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(text="[► Help ◄]", callback_data="help_back"),
-        InlineKeyboardButton(text="❔Chit Chat", url="https://t.me/Besties_XD"),
+        InlineKeyboardButton(text="❔Chit Chat", url="https://t.me/mircrobotsupport"),
     ],
     [
         InlineKeyboardButton(text="🚑 Support", url=f"https://t.me/{SUPPORT_CHAT}"),
