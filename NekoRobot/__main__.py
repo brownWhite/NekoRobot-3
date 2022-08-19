@@ -119,7 +119,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(text="🚑 Support", url=f"https://t.me/{SUPPORT_CHAT}"),
-        InlineKeyboardButton(text="📢 Updates", url="https://t.me/BlackLover_Updates"),
+        InlineKeyboardButton(text="📢 Updates", url="https://t.me/mircbotsupport"),
     ],
 ]
 
