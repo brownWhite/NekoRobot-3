@@ -28,7 +28,7 @@ from telethon import Button
 from NekoRobot import telethn as tbot
 from NekoRobot.events import register
 
-PHOTO = "https://telegra.ph/file/a21731c0c4c7f27a3ec16.jpg"
+PHOTO = "https://telegra.ph/file/4b5df1683dbebdeff177d.jpg"
 
 
 @register(pattern=("/alive"))
@@ -40,8 +40,8 @@ async def awake(event):
     NEKO += "**♡ python-Telegram-Bot: 13.11**\n\n"
     BUTTON = [
         [
-            Button.url("🚑 Support", "https://t.me/BlackLover_Support"),
-            Button.url("📢 Updates", "https://t.me/BlackLover_Updates"),
+            Button.url("🚑 Support", "https://t.me/mircrobotsupport"),
+            Button.url("📢 Updates", "https://t.me/mircrobot_bot"),
         ]
     ]
     await tbot.send_file(event.chat_id, PHOTO, caption=NEKO, buttons=BUTTON)
