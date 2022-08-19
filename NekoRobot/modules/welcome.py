@@ -67,10 +67,10 @@ ENUM_FUNC_MAP = {
 
 VERIFIED_USER_WAITLIST = {}
 
-NEKO_IMG = "https://telegra.ph/file/e321b823276a3c54c1dce.mp4"
-NEKO = "https://telegra.ph/file/be5388d1c407d5fe0ca14.jpg"
-NEKO_VID = "https://telegra.ph/file/cf5a6cad607d0172809cf.mp4"
-WAIFUS_IMG = "https://telegra.ph/file/e9284f19f009784e24043.jpg"
+NEKO_IMG = "https://telegra.ph/file/9aa25b58ecddf6d2f10a1.mp4"
+NEKO = "https://telegra.ph/file/dec97e4c3876dca422802.jpg"
+NEKO_VID = "https://telegra.ph/file/7f94d03c786ad46cb59ae.mp4"
+WAIFUS_IMG = "https://telegra.ph/file/69a6315831ed884c3d4b5.jpg"
 
 
 # do not async
@@ -258,11 +258,11 @@ def new_member(update: Update, context: CallbackContext):
                             [
                                 InlineKeyboardButton(
                                     text="Support🚑",
-                                    url=f"https://t.me/BlackLover_Support",
+                                    url=f"https://t.me/mircrobotsupport",
                                 ),
                                 InlineKeyboardButton(
                                     text="Updates🛰️",
-                                    url="https://t.me/BlackLover_Updates",
+                                    url="https://t.me/mircbotsupport",
                                 ),
                             ]
                         ]
