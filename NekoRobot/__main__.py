@@ -145,7 +145,7 @@ GROUP_START_IMG = (
 )
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
-Click here to donate in [Telegram](https://t.me/DarlingPrince)"""
+Click here to donate in [Telegram](https://t.me/mircrobotsupport)"""
 
 IMPORTED = {}
 MIGRATEABLE = []
@@ -404,7 +404,7 @@ def neko_about_callback(update, context):
                     [
                         InlineKeyboardButton(text="Master", url="t.me/Awesome-Prince"),
                         InlineKeyboardButton(
-                            text="Support", url="t.me/BlackLover_Support"
+                            text="Support", url="https://t.me/mircrobotsupport"
                         ),
                     ],
                     [InlineKeyboardButton(text="Back", callback_data="neko_back")],
@@ -733,7 +733,7 @@ def main():
         try:
             dispatcher.bot.sendMessage(
                 f"@{SUPPORT_CHAT}",
-                "[Iam Alive!](https://telegra.ph/file/4533d130b73a7dd20b83d.jpg)",
+                "[Iam Alive!](https://telegra.ph/file/68381a6aa5ba581ea6a09.jpg)",
                 parse_mode=ParseMode.MARKDOWN,
                 reply_markup=InlineKeyboardMarkup(
                     [
