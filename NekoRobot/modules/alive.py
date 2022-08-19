@@ -41,7 +41,7 @@ async def awake(event):
     BUTTON = [
         [
             Button.url("🚑 Support", "https://t.me/mircrobotsupport"),
-            Button.url("📢 Updates", "https://t.me/mircrobot_bot"),
+            Button.url("📢 Updates", "https://t.me/mircbotsupport"),
         ]
     ]
     await tbot.send_file(event.chat_id, PHOTO, caption=NEKO, buttons=BUTTON)
