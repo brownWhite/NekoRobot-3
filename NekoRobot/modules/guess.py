@@ -11,7 +11,7 @@ async def wish(e):
     if e.is_reply:
         mm = random.randint(1, 100)
         lol = await e.get_reply_message()
-        fire = "https://telegra.ph/file/3fe0f7dedb81528a57313.jpg"
+        fire = "https://telegra.ph/file/c67fafd81ccd5d66f3c04.jpg"
         await neko.send_file(
             e.chat_id,
             fire,
