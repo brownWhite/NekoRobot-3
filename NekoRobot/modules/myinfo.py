@@ -11,11 +11,11 @@ from NekoRobot.events import register
 
 edit_time = 5
 """ =======================CONSTANTS====================== """
-file1 = "https://telegra.ph/file/36440524ecd0a6b65138f.jpg"
-file2 = "https://telegra.ph/file/b0868af85d1d17554a6d4.jpg"
-file3 = "https://telegra.ph/file/60c612b4736560f9b98b9.jpg"
-file4 = "https://telegra.ph/file/a502e6322a201f5949058.jpg"
-file5 = "https://telegra.ph/file/737a7b4d519887c35ed21.jpg"
+file1 = "https://telegra.ph/file/41e0df9bdd3430cb28165.jpg"
+file2 = "https://telegra.ph/file/74de08c684f351a152b7d.jpg"
+file3 = "https://telegra.ph/file/5627847b59945c7b853d1.jpg"
+file4 = "https://telegra.ph/file/4ea30a859dc23658306d1.jpg"
+file5 = "https://telegra.ph/file/c98cf06edebb50f0a2df1.jpg"
 """ =======================CONSTANTS====================== """
 
 
