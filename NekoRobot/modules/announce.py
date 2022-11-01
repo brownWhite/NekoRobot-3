@@ -11,7 +11,7 @@ from NekoRobot.modules.helper_funcs.decorators import nekocmd
 from NekoRobot.modules.log_channel import loggable
 
 
-@nekocmd(command="announce", pass_args=True)
+@nekocmd(command="announce", pass_args=False)
 @u_admin(AdminPerms.CAN_CHANGE_INFO)
 @loggable
 def announcestat(update: Update, context: CallbackContext) -> str:
