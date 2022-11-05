@@ -127,21 +127,6 @@ def chatmemberupdates(update: Update, context: CallbackContext) -> Optional[str]
                 )
                 return log_message
 
-            if oldstat == "administrator" and newstat == "kicked":
-                if do_announce(chat):
-                    update.effective_chat.send_message(
-                        f"{member_name} was demoted anad removed by {cause_name}.",
-                        parse_mode=ParseMode.HTML,
-                    )
-                log_message = (
-                    f"<b>{html.escape(chat.title)}:</b>\n"
-                    f"#BANNED\n"
-                    f"#ADMIN\n<b>Demoted</b>\n"
-                    f"<b>Admin:</b> {cause_name}\n"
-                    f"<b>User:</b> {member_name}"
-                )
-                return log_message
-
             if oldstat == "administrator" and newstat == "left":
                 log_message = (
                     f"<b>{html.escape(chat.title)}:</b>\n"
