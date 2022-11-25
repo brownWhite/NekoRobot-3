@@ -1,8 +1,8 @@
 GDNIGHT = [
-    "`Good night keep your dreams alive`",
-    "`Night, night, to a dear friend! May you sleep well!`",
-    "`May the night fill with stars for you. May counting every one, give you contentment!`",
-    "`Wishing you comfort, happiness, and a good night’s sleep!`",
+    "`You have to visit @mirc_quote to make you Mellow mode on`",
+    "`You need more happiness and laughing, here @mirlucu u can LOL`",
+    "`Why dont you carry out a Meet Up with your group's friends?`",
+    "`Beranikan diri untuk menyapanya, bisa jadi dia sedang menunggu pc mu`",
     "`Now relax. The day is over. You did your best. And tomorrow you’ll do better. Good Night!`",
     "`Good night to a friend who is the best! Get your forty winks!`",
     "`May your pillow be soft, and your rest be long! Good night, friend!`",
