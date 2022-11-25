@@ -28,7 +28,6 @@ import random
 import re
 import time
 from sys import argv
-from typing import Optional
 
 from telegram import InlineKeyboardButton, InlineKeyboardMarkup, ParseMode, Update
 from telegram.error import (
